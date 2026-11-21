@@ -2,8 +2,8 @@
 class Shelfready < Formula
   desc "Get iOS apps ready for the App Store: legal pages, privacy truth, go-live checklist"
   homepage "https://shelfready.dev"
-  url "https://registry.npmjs.org/shelfready/-/shelfready-0.1.1.tgz"
-  sha256 "e9e260a398c4d6a70c4a65673856e35b1b4b47fa6ace924458786e48867a10d5"
+  url "https://registry.npmjs.org/shelfready/-/shelfready-0.2.0.tgz"
+  sha256 "d3c3813d48a1e44cbc738508d3fc8692c486794b558a3579010b22869f9f1e78"
   license "Apache-2.0"
 
   depends_on "node"
